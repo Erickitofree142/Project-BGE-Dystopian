@@ -1,0 +1,64 @@
+[Project Z-D]
+Project Zero Dynamic Revised
+
+	Random Project of using a game engine that can be use to run 
+other games as well. Games can be basic or complex. Oh and forget about the naming, I didn't know what to name it. 
+
+	The game was redone and revised to make it possible to create many games and even large 2d games(Not too big though). Currently the project is at developing the engine, but the current game put on is a test game so it can be changed.
+
+Project Dystopian
+[?Zero Day?] Planned Things:
+	- Game of survival in space?
+	- 2D(3D) game functions and maybe graphics (2D graphics that look 	
+		like 3D Graphics)
+	- Original Game Plan
+		+ Dystopian area
+			~ Fake Hacking the Tech System
+			~ Help in Freeing people?
+			~ Storage Base Looting
+			~ [Add Other Ideas]
+		+ Wilderness area
+			~ Groups of Friendly/Enemy/...
+			~ Digging Hideout Bunker/Contrsucting Hideout Bunker
+			~ Animals
+		+ RPG (Minecraft-like Style)
+			 ~ Keep track of health
+			 ~ Weapon Custumization? 
+			 ~ Inventory
+		+ Large Map
+			~ 2-4? Regions
+			~ Many areas to Explore
+		+ Basic NPC Ai
+			~ Can help if in hideout bunker
+			~ Can protect the hideout bunker
+			~ Can follow the player
+			~ If Possible, follow a other Ai(for orginised-style militia)
+			~ Enemy Ai
+			~ Android bots (Freindly/Enemy)
+			~ Enemy Ai raiding
+		+ Basic Survival Game
+			~ Items
+			~ Components
+			~ Weapons
+			~ and more
+		+ Mob creatures
+			~ Synthetic Human
+			~ Synthitic Robot
+			~ Radioactive Animals
+			~ Normal Animals
+			~ Monsters/Behemoth Creatures
+	
+
+	- Game Devmode in game for game testing
+		+ Just For Fun Make a way to play games using characters from
+		other games
+	- Effecient way to store and load many sprite sheets
+	- Code that loads games, worlds, areas with a single file.
+		+ File will show directories for specific maps
+		+ Goal is to load the worlds, games and maps with their
+	 		corresponding art, maps, files, and maybe other things
+	- Audio
+	- Online Multiplayer (Once Engine is Fully Finished)
+		! Engine Must be able to fully be finsished
+		! Engine Needs to be able to load files and run specific 				protocols for specific files if needed.			
+	- [Add More]

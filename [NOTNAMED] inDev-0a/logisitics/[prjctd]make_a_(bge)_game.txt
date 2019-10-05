@@ -1,0 +1,35 @@
+[Project Zero-Dynamic] Make A BGE (Basic Game Engine) Game
+=================================================================
+
+I named the Engine BGE for basic game engine, even the name is basic. The Engine can 
+can make any 2d game. The Engine currently has mainly what a developing game needs. 
+Some basic things to keep in mind is that the core engine files, gfx, inputs, and other
+things shouldn't be changed, unless needed to, so it can do more things, which will
+rarely happen. Other than that the game engine was made, so it can have many games. 
+
+Step 1 Code All Entity, Tile and make All their art:
+
+	Part A. |Create The Game|
+	Create all the art required for the game like mobs, items, ui,
+ 	background, everything you want in the game, both in art and in
+	code that. Save it all in its own package in the [com.core.games]
+	pacakge example{com.core.games.pong}.
+
+	Part B. |Load Up The Game|
+	Make a File with the title of game, and extend it to the States class.
+	Then Go to the Loader class[com.core.games.Handler] and add your game to 
+	the hander so it can load the game (In the Future there will be a way to
+	load up games using the button but for now if you want to run your game
+	change the [18: currentGame = games[(game number)]). Then Go to the Assets
+	class[com.core.gfx.Assets] and create all of your entiies and images. Also
+	load up all the tiles of the game and give it a id number unique.
+
+
+> The game Pong will be an example on how to create games. While Pong will not have
+assets, maps, and other things, the point of doing it with pong it is to understand
+the process of just adding your game. The whole loading up assets, and maps shouldn't
+be too difficult, but it there will be a file for that stuff soon since the current
+way of loading assets isn't the finilized version of it
+
+
+
