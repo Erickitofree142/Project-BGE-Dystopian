@@ -10,8 +10,10 @@ other games as well. Games can be basic or complex. Oh and forget about the nami
 	[Idea] The rise of an unexpectected civilaztion leads a campaign of command
 	and conquer, but their philosophies are only evil and harsh. The Dystopian
 	area, Disctrict 4F-A, will be an area of humans controlled by robots and
-	synthethic humans and another more unknown district to the player character in 		4F-A (1). Help people escape the tyranny using skills such as (fake) hacking to
-	help lead a resistence movement (2). It seems to be able to work out, but 		humans that have left the dystopian region and are out in the forest still do 
+	synthethic humans and another more unknown district to the player character in
+	4F-A (1). Help people escape the tyranny using skills such as (fake) hacking to
+	help lead a resistence movement (2). It seems to be able to work out, but
+	humans that have left the dystopian region and are out in the forest still do 
 	not get along (3).
   
 		(1) The unknown district will be the second disctrict that Jeremy can 
@@ -20,22 +22,33 @@ other games as well. Games can be basic or complex. Oh and forget about the nami
 		
 			{B} Incase if Jeremy doesn't put anything or is not intrested
 			in making a city. The city will be known as the 'City for the
-			Barons' or A9-0. Player can visit it if he wants, and will 				notice how aliens and humans live together where in the 4F-A is 			the opposite. They will live a life of luxury, and is also a 
+			Barons' or A9-0. Player can visit it if he wants, and will
+			notice how aliens and humans live together where in the 4F-A is 
+			the opposite. They will live a life of luxury, and is also a 
 			much larger region with large buildings. 
 
 		(2) The story is only optional, if the player decides to keep the bunker
-		to themselve they can. There will be several game endings and story 			quest or anything like that. The first Story, the liberation story, 
+		to themselve they can. There will be several game endings and story
+		quest or anything like that. The first Story, the liberation story, 
 		where the player will either from the start begin this or if the player 
 		dies in the wilderness, he will loose all his items, but not the 
 		'player'. The player will just wake up again in a jail cell since the 
-		enemy robot search team will just take him back to his captitvity where 		if the player does not escape he will get executed and the game will 			fully be finsished or basically Game Over. 
+		enemy robot search team will just take him back to his captitvity where
+		if the player does not escape he will get executed and the game will
+		fully be finsished or basically Game Over. 
 
 		(3) The player can eithter survive alone in the wilderness and finish a
 		story and try to infintily live in the wilderness, or complete stories,
 		missions, side quest, and more things.
 
 	[At Game Start] The Player has a dream of the past of a what 
-	can be called 'truamatizing' when he was in the military. The dream will be 		like a tutorial on controlls and can also set the setting on how the dystopian 		area just started. It will be 'truamatizing' to the players character because 		he doesn't get bacon? or something else. Point is find a reason to create a 		quick control tutorial. Player wakes up realizing that the dream was him 		recalling the past, he doesn't tell no one though and lives like he never 		experienced the dream.
+	can be called 'truamatizing' when he was in the military. The dream will be
+	like a tutorial on controlls and can also set the setting on how the dystopian
+	area just started. It will be 'truamatizing' to the players character because
+	he doesn't get bacon? or something else. Point is find a reason to create a
+	quick control tutorial. Player wakes up realizing that the dream was him 
+	recalling the past, he doesn't tell no one though and lives like he never
+	experienced the dream.
 
 	[The Liberation Story by Erick]  The player then goes through life
 	under the rule of a tyranical dystopian region. (1) After not being served 
@@ -49,9 +62,13 @@ other games as well. Games can be basic or complex. Oh and forget about the nami
 		
 		(1) Before the incedent of him not getting bacon or anything really 
 		that would make sense on rebelling on the governemnt, it will show what 
-		is life like there where everyone is a 'slave' because while they work 			for a living they are enclosed in a city where the person is forced to 			work always. The players Job is electronic repair or somthing fitting 			to the story.  
+		is life like there where everyone is a 'slave' because while they work
+		for a living they are enclosed in a city where the person is forced to
+		work always. The players Job is electronic repair or somthing fitting 	
+		to the story.  
 
-		(2) Since the player used to be in the military it will show how he 			knows how to handle weapons and stuff. 
+		(2) Since the player used to be in the military it will show how he
+		knows how to handle weapons and stuff. 
 
 		(3) There will be several factions that all have their own goals and 
 		form of control. Like the [Raiders]? a loosley open, anarchy like group 
@@ -64,7 +81,8 @@ other games as well. Games can be basic or complex. Oh and forget about the nami
 		end the story because when they do, the tyrnanical government only calls
 		what can be called as 'heavy reinforcment' or anything that fits the
 		name and finishes the resistance army fiishing in defeat no matter 	
-		what. It can lost a long time if the player manages to escape, regrow 			the resistence, or has an army large enough to keep on going. The 
+		what. It can lost a long time if the player manages to escape, regrow
+		the resistence, or has an army large enough to keep on going. The 
 		player can also have the option of leaving the resistence if he wants 
 		to do a different story or just wants to survive or even return to the 
 		dystopian region using his hacking skills. If they do though the 
