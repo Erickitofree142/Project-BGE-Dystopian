@@ -2,7 +2,9 @@
 Project Zero Dynamic Revised
 
 	Random Project of using a game engine that can be use to run 
-other games as well. Games can be basic or complex. Oh and forget about the naming, I didn't know what to name it. Goal is to make an engine that can create all sorts of games. This project was just named project dystopian, but the engine can be able to create or run other games. 
+other games as well. Games can be basic or complex. Oh and forget about the naming, I didn't know what to name it. Goal
+is to make an engine that can create all sorts of games. This project was just named project dystopian, but the engine 
+can be able to create or run other games. 
 
 {Project Dystopian}
 [Zero Day] Planned Things:
